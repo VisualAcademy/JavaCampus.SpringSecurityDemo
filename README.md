@@ -8,10 +8,13 @@ https://start.spring.io
 
 ### JavaCampus 이름으로 프로젝트 생성
 
+Maven 종속성은 다음 리스트와 같습니다. 
+
 * Spring Web
-* JPA 추가
 * DevTools
 * Spring Security 
+* JPA 추가(제거 할 것) 
+
 
 ## JavaCampus 프로젝트 
 
